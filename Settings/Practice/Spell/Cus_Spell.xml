@@ -1,0 +1,11 @@
+<Spells><List>		
+	<Spell Name="Spell_LunHui_lianjing">
+		<DisplayName>炼精化气符</DisplayName>
+		<Desc>黄老汉随手涂鸦的符咒，可极大的提高佩戴者炼精化气的速度。</Desc>
+		<Template>Spell/main_texture_happy01</Template>
+		<UnLock>1</UnLock>
+		<Effects>
+			<li Name="PotentialOfBasepracticeAddValue" AddV="1000"/>
+		</Effects>
+	</Spell>
+</List>	</Spells>
